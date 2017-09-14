@@ -10,6 +10,10 @@ public class HelloWorld {
 		System.out.println("Great Job, "+b);
 		System.out.println("Thanks :) ");
 		System.out.println("Welcome ");
+<<<<<<< HEAD
+=======
+		System.out.println("Creating new branch HellowWorld1.1");
+>>>>>>> d0b757b... Commiting my change
 	}
 
 }
