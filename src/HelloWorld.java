@@ -9,6 +9,7 @@ public class HelloWorld {
 		System.out.println("My Name In Reverse: "+b.reverse().toString());
 		System.out.println("Great Job, "+b);
 		System.out.println("Thanks :) ");
+		System.out.println("Great Job, "+b);
 	}
 
 }
